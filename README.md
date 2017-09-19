@@ -6,9 +6,9 @@ PHP version >= 5.4
 
 Docs:
 
-* [新手指南 - 網頁專用 SDK]*(https://developers.facebook.com/docs/php/gettingstarted/?locale=zh_TW)
+* [新手指南 - 網頁專用 SDK](https://developers.facebook.com/docs/php/gettingstarted/?locale=zh_TW)
 * [PHP SDK - 網頁專用 SDK](https://developers.facebook.com/docs/reference/php/)
-* [SDKs - 行銷 API](*https://developers.facebook.com/docs/marketing-api/sdks/)
+* [SDKs - 行銷 API](https://developers.facebook.com/docs/marketing-api/sdks/)
 * [手動建立登入流程 - Facebook 登入](https://developers.facebook.com/docs/facebook-login/manually-build-a-login-flow/)
 
 PHP SDK Download: https://github.com/facebook/php-graph-sdk
